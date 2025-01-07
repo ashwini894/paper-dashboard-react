@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/ct-paper-dashboard-pro-react/issues"
   },
-  "homepage": "https://demos.creative-tim.com/paper-dashboard-pro-react/#/",
+  "homepage": ".",
   "dependencies": {
     "ajv": "^8.17.1",
     "autoprefixer": "^10.4.20",

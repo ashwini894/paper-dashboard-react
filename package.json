@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/ct-paper-dashboard-pro-react/issues"
   },
-  "homepage": ".",
+  "homepage": "https://paper-dashboard-react.netlify.app/",
   "dependencies": {
     "ajv": "^8.17.1",
     "autoprefixer": "^10.4.20",
